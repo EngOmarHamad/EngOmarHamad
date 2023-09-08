@@ -1,6 +1,6 @@
 
 
-  <h1 align="center" style="color: #2085ff">Mohammed Jaber 👋 
+  <h1 align="center" style="color: #2085ff">Omar Hamad 👋 
   <a align="right">
     <img src="https://komarev.com/ghpvc/?username=mohjaps&style=square" alt="mohjaps" />
   </a></h1>
@@ -12,10 +12,10 @@ Hi, I'm ✨ Omar Hamad ✨, Developer, Engineer, Intern, Learning New Things
 
 - 🔭 Interested In Software Development, Problem Solving, Software Structuring
 - 🌱 I’m currently Studying Software Engineering
-- 📫 How to reach me: moh.ja.ps@gmail.com
-- ✨ You Can Ask Me [HERE](https://github.com/mohjaps/mohjaps/issues)
+- 📫 How to reach me: omar.mohammad.hamaad@gmail.com
+- ✨ You Can Ask Me [HERE](https://github.com/EngOmarHamad/EngOmarHamad/issues)
 - ⚡ Fun fact: Fond Of Errors 😂
-- 📄 [My CV](https://docs.google.com/document/d/17DY0kQMxRN0yhZgGyA3AFzxN40kgePrS)
+- 📄 [My CV]()
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" />
 
@@ -103,7 +103,7 @@ Hi, I'm ✨ Omar Hamad ✨, Developer, Engineer, Intern, Learning New Things
 
 
 ## [🔗 Find Me](#)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//972595264875/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohjaps/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/moh_ja_ps/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//972597041743/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hamad-521911274/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/OmarMohammadHa7/)
 [![FaceBook](https://img.shields.io/badge/facebook-fff?style=for-the-badge&logo=facebook)](https://www.facebook.com/moh.ja.pal/)
